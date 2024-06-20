@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Predictive Analysis**
 
-- 🌱 And learning **DBT, Airflow, Kafka**
+- 🌱 And learning **machile learning... MLOPs... DEEP LEARNING....**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
