@@ -1,13 +1,12 @@
 ![logo](https://raw.githubusercontent.com/geeky-niki/geeky-niki/2c83bf87532d0050ffb27b766c0b8d681ea7faaf/github-header-image.png)
-<h1 align="center">"Data: the silent force shaping the narrative of our digital journey." 🚀</h1>
-<h3 align="center">where insights meet impact, 👋 and every byte tells a story ✨ </h3>
+<h1 align="center">"Data: the silent force shaping the narrative of our digital journey." </h1>
 
 <img align = "right" alt = "coding" width = "400" src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUzlMlzGZV07bZkz7u6noZIfZ-UGHsXNDU3w&usqp=CAU">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=geeky-niki&label=Profile%20views&color=0e75b6&style=flat" alt="geeky-niki" /> </p>
 
-- 🔭 I’m currently working on **Predictive Analysis**
+- 🔭 I’m currently building **inecalable Data Pipel**
 
-- 🌱 And learning **machile learning... MLOPs... DEEP LEARNING....**
+- 🌱 And diving deep into the realm of  **data**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
