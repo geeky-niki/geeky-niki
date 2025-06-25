@@ -4,7 +4,7 @@
 <img align = "right" alt = "coding" width = "400" src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUzlMlzGZV07bZkz7u6noZIfZ-UGHsXNDU3w&usqp=CAU">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=geeky-niki&label=Profile%20views&color=0e75b6&style=flat" alt="geeky-niki" /> </p>
 
-- 🔭 I’m currently building **inecalable Data Pipel**
+- 🔭 I’m currently building **scalable Data Pipeline**
 
 - 🌱 And diving deep into the realm of  **data**
 
